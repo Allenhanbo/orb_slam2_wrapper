@@ -1,2 +1,2 @@
 # orb_slam2_wrapper
-# This is
+This is an OrbSLAM2 ROS wrapper used in the drones lab at TAU
